@@ -26,3 +26,8 @@ The Layoff dataset was extrated from Kraggle as excel file and pandas was used f
 
 
 ![](https://github.com/termehmohebbie/deadline-mode/blob/main/Images/Image%20by%20Industry.PNG) 
+
+
+## Get the Data Set
+
+* The URL https://www.convertcsv.com/csv-to-geojson.htm was used to convert the data in the geojson file
