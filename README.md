@@ -25,4 +25,4 @@ The Layoff dataset was extrated from Kraggle as excel file and pandas was used f
 ![](https://github.com/termehmohebbie/deadline-mode/blob/main/Images/Capture%20-%20%25%20by%20Country.PNG)
 
 
-##![](https://github.com/termehmohebbie/deadline-mode/blob/main/Images/Image%20by%20Industry.PNG) 
+![](https://github.com/termehmohebbie/deadline-mode/blob/main/Images/Image%20by%20Industry.PNG) 
