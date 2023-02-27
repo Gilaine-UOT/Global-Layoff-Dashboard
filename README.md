@@ -30,7 +30,7 @@ The Layoff dataset was extrated from Kraggle as excel file and pandas was used f
 
 ## Get the Data Set
 
-* The URL https://www.convertcsv.com/csv-to-geojson.htm was used to convert the data in the geojson file
+* The URL https://www.convertcsv.com/csv-to-geojson.html was used to convert the data in the geojson file
 
 
 ## Creating the Dashboard
